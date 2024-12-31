@@ -1,0 +1,54 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "contact": [
+    {
+      "id": "0dec",
+      "firstname": "Mihir ",
+      "lastname": "Lad",
+      "phonenumber": 6354342671,
+      "city": "Paria"
+    },
+    {
+      "id": "7402",
+      "firstname": "sonal",
+      "lastname": "Lad",
+      "phonenumber": 9978485078,
+      "city": "Amroli"
+    },
+    {
+      "id": "0710",
+      "firstname": "Anjana",
+      "lastname": "Lad",
+      "phonenumber": 8758456464,
+      "city": "Paria"
+    },
+    {
+      "id": "f1f2",
+      "firstname": "Harshil",
+      "lastname": "Lad",
+      "phonenumber": 8745697845,
+      "city": "Paria"
+    },
+    {
+      "id": "c2bc",
+      "firstname": "Dev",
+      "lastname": "Lad",
+      "phonenumber": 9987654321,
+      "city": "canada"
+    }
+  ],
+  "signup": [
+    {
+      "id": "2601",
+      "name": "Mihir",
+      "email": "ladmihir57@gmail.com",
+      "password": "mihir123"
+    }
+  ]
+}
